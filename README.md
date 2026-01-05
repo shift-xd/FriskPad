@@ -3,6 +3,8 @@ FriskPad is Hackpad version iteration by frisky lmao
  
 ## Hackpad Overview
 
+<img width="583" height="318" alt="FriskPad Case With PCB render " src="https://github.com/user-attachments/assets/8aa9ff03-edc9-4379-a376-01f4b8cab6fd" />
+
 This shows the full assembly of FriskPad in Fusion 360.  
 It demonstrates how the PCB, case, and components fit together.
 
@@ -15,27 +17,28 @@ It demonstrates how the PCB, case, and components fit together.
 
 
 ## Schematic
-<img width="647" height="349" alt="Schematics " src="https://github.com/user-attachments/assets/67bfd5a5-4306-4ef2-a5ee-91fac74a1e4a" />
+<img width="583" height="318" alt="FriskPad Schematics" src="https://github.com/user-attachments/assets/e61f49ac-df06-4850-a52f-41a674b19736" />
+
 
 The schematic was designed in KiCad.  
 Each switch connects directly to the RP2040.  
 The OLED follows GND, VCC, SCL, SDA pin order.
 
 ## PCB Layout
+<img width="246" height="318" alt="FriskPad PCB" src="https://github.com/user-attachments/assets/bfbd05e2-5d72-47e0-8b58-85c296c94221" />
 
 The PCB was designed in KiCad PCB Editor.  
 It shows component placement and routing.  
 The layout focuses on clarity and simplicity.
 
-<img width="590" height="489" alt="FriskPad pcb" src="https://github.com/user-attachments/assets/1e6c22fb-8b5e-408d-8cfb-75f2e00d9f1b" />
+
 
 
 ## Case Design
-<img width="688" height="283" alt="cASE wITH lID" src="https://github.com/user-attachments/assets/d82fdb8a-7ddb-4b2c-acbe-6fd12c1f1452" />
+<img width="573" height="325" alt="FriskPadCase Only Image " src="https://github.com/user-attachments/assets/fac86dd9-5b5a-41de-9908-b06017ad07ac" />
+<img width="573" height="325" alt="FriskPad Case With PCB render " src="https://github.com/user-attachments/assets/abbc7b61-9597-42f5-8c72-65ff03f5cca8" />
 
-<img width="688" height="421" alt="FriskPad cASED" src="https://github.com/user-attachments/assets/8fecf76a-5854-4f35-9342-12a4edf5d370" />
-
-## Forgot To Mention But the top of the hackpad is made using cut clear acrylic panel that is why it is left hollow ( Grants Required for acrylic panel )
+### Nothing much just wanted to add i hate screws the lid is a snap fit mechanism which i will glue together with removable fevibond gum i have 
 
 The case was designed in Free Cad .  
 Dimensions were taken directly from the PCB.  
