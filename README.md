@@ -17,7 +17,7 @@ It demonstrates how the PCB, case, and components fit together.
 
 
 ## Schematic
-<img width="783" height="385" alt="image" src="https://github.com/user-attachments/assets/785be22d-1afe-44d3-bf2b-3f90afd3a17f" />
+<img width="583" height="318" alt="image" src="https://github.com/user-attachments/assets/785be22d-1afe-44d3-bf2b-3f90afd3a17f" />
 
 
 
