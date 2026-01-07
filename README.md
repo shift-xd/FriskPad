@@ -17,7 +17,8 @@ It demonstrates how the PCB, case, and components fit together.
 
 
 ## Schematic
-<img width="583" height="318" alt="FriskPad Schematics" src="https://github.com/user-attachments/assets/e61f49ac-df06-4850-a52f-41a674b19736" />
+<img width="783" height="385" alt="image" src="https://github.com/user-attachments/assets/785be22d-1afe-44d3-bf2b-3f90afd3a17f" />
+
 
 
 The schematic was designed in KiCad.  
