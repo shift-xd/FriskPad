@@ -3,7 +3,8 @@ FriskPad is Hackpad version iteration by frisky lmao
  
 ## Hackpad Overview
 
-<img width="583" height="318" alt="FriskPad Case With PCB render " src="https://github.com/user-attachments/assets/8aa9ff03-edc9-4379-a376-01f4b8cab6fd" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0bb2b030-12ee-47bb-9e50-c46efde315f4" />
+
 
 This shows the full assembly of FriskPad in Fusion 360.  
 It demonstrates how the PCB, case, and components fit together.
